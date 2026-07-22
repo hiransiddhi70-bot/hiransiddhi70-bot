@@ -2,189 +2,80 @@
 
 # 👋 Hi, I'm Siddhi Hiran
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Explorer;Full+Stack+Developer;Building+Ideas+Into+Reality">
+### `AI Explorer • CSE Student • Developer`
 
 </div>
 
 ```bash
-┌─────────────────────────────────────┐
-│        DEVELOPER PROFILE            │
-├─────────────────────────────────────┤
-│ Name     : Siddhi Hiran             │
-│ Role     : CSE Student              │
-│ Focus    : AI + Web Development     │
-│ Status   : Always Learning 🚀       │
-└─────────────────────────────────────┘
+╭──────────────────────────────╮
+│  $ whoami                    │
+│                              │
+│  Siddhi Hiran                │
+│  Computer Science Student    │
+│  Building with Code & AI 🚀  │
+╰──────────────────────────────╯
 ```
 
-<img align="right" width="350" src="YOUR_IMAGE_LINK_HERE">
-
-## 👩‍💻 `whoami`
+<img align="right" width="300" src="YOUR_IMAGE_LINK">
 
 ```python
-class Developer:
+class Siddhi:
 
-    name = "Siddhi Hiran"
-    education = "B.Tech Computer Science"
+    role = "CSE Student"
+    passion = "AI + Web Development"
 
     skills = [
-        "Web Development",
-        "Artificial Intelligence",
-        "Problem Solving",
-        "UI/UX Design"
+        "JavaScript",
+        "Python",
+        "C++",
+        "React",
+        "Git"
     ]
 
-    passion = "Turning ideas into real products"
-
-    def mindset(self):
-        return "Learn → Build → Create 🚀"
+    goal = "Build impactful products 🚀"
 
 
-me = Developer()
-print(me.mindset())
+print(Siddhi.goal)
 ```
 
----
+```yaml
+Name: Siddhi Hiran
+Focus:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Problem Solving
 
-## ⚡ `tech_stack`
+Currently:
+  Learning → Building → Creating
+```
 
 ```javascript
-const Siddhi = {
+const projects = [
+ "LeetPattern",
+ "AI Applications",
+ "Web Experiences",
+ "Creative Tools"
+];
 
-languages: [
- "HTML",
- "CSS",
- "JavaScript",
- "Python",
- "C++"
-],
-
-frontend: [
- "React.js",
- "Responsive Design",
- "UI/UX"
-],
-
-backend_and_tools: [
- "Firebase",
- "Git",
- "GitHub",
- "VS Code"
-],
-
-exploring: [
- "Artificial Intelligence",
- "APIs",
- "Cloud",
- "DSA"
-]
-
-};
+console.log("Always Building 🚀");
 ```
-
----
-
-## 🚀 `projects.exe`
 
 ```bash
-$ cd projects
+> git status
 
-✓ LeetPattern
-  └─ Interactive Coding Pattern Learning Platform
+✔ Learning
+✔ Coding
+✔ Creating
+✔ Improving
 
-✓ 20 Days 20 AI Projects
-  ├─ AI Resume Analyzer
-  ├─ AI Code Reviewer
-  ├─ PDF Chatbot
-  ├─ Mock Interview AI
-  └─ AI Portfolio Builder
-
-✓ Personal Portfolio Website
-  └─ Developer Identity Platform
-
-✓ Interactive Web Projects
-  └─ Games & Creative Applications
 ```
-
----
-
-## 🏆 `achievements.log`
-
-```txt
-[✓] Built 20+ Web & AI Projects
-
-[✓] District Level Badminton Player
-
-[✓] Participated in AI Events &
-    Developer Communities
-
-[✓] Exploring Modern Technologies
-
-[✓] Building Something New Everyday
-```
-
----
-
-## 💻 `developer.mode`
-
-```python
-while True:
-    learn()
-    code()
-    create()
-    improve()
-```
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiransiddhi70-bot&show_icons=true&theme=tokyonight">
+### 🌐 Connect
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hiransiddhi70-bot&theme=tokyonight">
+`GitHub` | `LinkedIn` | `Portfolio`
 
-</div>
-
----
-
-## 🛠️ Tools I Use
-
-```
-💻 VS Code
-🐙 Git & GitHub
-🎨 Figma
-🖌️ Canva
-🔥 Firebase
-🤖 AI Tools
-```
-
----
-
-## 🌐 `connect.exe`
-
-```bash
-$ connect Siddhi
-
-GitHub   : github.com/hiransiddhi70-bot
-LinkedIn : linkedin.com/in/siddhi-hiran-a05a46410
-
-echo "Let's build something amazing 🚀"
-```
-
----
-
-<div align="center">
-
-```
-01001000 01101001 👋
-
-Code is my language.
-Creativity is my compiler.
-Innovation is my output.
-
-⭐ Building the future, one commit at a time.
-```
+⭐ "Code. Create. Repeat."
 
 </div>
